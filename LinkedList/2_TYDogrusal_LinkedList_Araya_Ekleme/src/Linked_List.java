@@ -14,53 +14,7 @@ public class Linked_List {
             }
         }
     }
-    /*
-    public void arayaEkleme(int index, int x){
-        Node eleman = new Node();
-        eleman.data = x;
 
-        if(index<0){
-            System.out.println("Index 0'dan kucuk olamaz!");
-        }
-        else{
-            if(head == null && index == 0){
-                head = tail = eleman;
-                eleman.next = null;
-            }
-            else if(head != null && index == 0){
-                eleman.next = head;
-                head = eleman;
-                System.out.println(index + "'e yeni eleman eklendi. Eklenen eleman: "+eleman.data);
-            }
-            else {
-                int n = 0;
-                int k = 0;
-                Node temp = head;
-                Node temp2 = head;
-                while(temp!= null){
-                    n++; // son sayisi list'deki eleman sayisini verecek.
-                    temp2 = temp;
-                    temp = temp.next;
-                }
-                if(n == index){
-                    temp2.next = eleman;
-                    eleman.next = temp; // aslinde temp burada = tail
-                }
-                else{
-                    temp = head;
-                    temp2 = head;
-                    while(k != index){
-                        temp2 = temp;
-                        temp = temp.next;
-                        k++;
-                    }
-                    temp2.next = eleman;
-                    eleman.next = temp;
-                }
-
-            }
-        }
-    }*/
     public void elemanSayisiGetir(){
         int n = 0;
         Node temp = head;
