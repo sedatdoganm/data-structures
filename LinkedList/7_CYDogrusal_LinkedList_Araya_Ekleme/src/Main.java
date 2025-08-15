@@ -8,6 +8,7 @@ public class Main {
         list.elemanSayisiGetir();
         System.out.println("**************");
         list.elemanlariListele();
+        list.elemanSayisiGetir();
 
     }
 }
