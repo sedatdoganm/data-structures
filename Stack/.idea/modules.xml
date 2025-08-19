@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_Stack_Diziler_Mantigi/1_Stack_Diziler_Mantigi.iml" filepath="$PROJECT_DIR$/1_Stack_Diziler_Mantigi/1_Stack_Diziler_Mantigi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_Stack_LinkedList_Mantigi/2_Stack_LinkedList_Mantigi.iml" filepath="$PROJECT_DIR$/2_Stack_LinkedList_Mantigi/2_Stack_LinkedList_Mantigi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_KursKayitUygulamasi/3_KursKayitUygulamasi.iml" filepath="$PROJECT_DIR$/3_KursKayitUygulamasi/3_KursKayitUygulamasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack.iml" filepath="$PROJECT_DIR$/Stack.iml" />
+    </modules>
+  </component>
+</project>
