@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_Queue_Diziler_Mantigi/1_Queue_Diziler_Mantigi.iml" filepath="$PROJECT_DIR$/1_Queue_Diziler_Mantigi/1_Queue_Diziler_Mantigi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_Queue_LinkedList_Mantigi/2_Queue_LinkedList_Mantigi.iml" filepath="$PROJECT_DIR$/2_Queue_LinkedList_Mantigi/2_Queue_LinkedList_Mantigi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_Pideci_Kuyrugu/3_Pideci_Kuyrugu.iml" filepath="$PROJECT_DIR$/3_Pideci_Kuyrugu/3_Pideci_Kuyrugu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue.iml" filepath="$PROJECT_DIR$/Queue.iml" />
+    </modules>
+  </component>
+</project>
