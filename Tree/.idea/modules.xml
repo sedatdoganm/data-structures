@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1_BST/1_BST.iml" filepath="$PROJECT_DIR$/1_BST/1_BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_BST_Uzerinde_Dolasma/2_BST_Uzerinde_Dolasma.iml" filepath="$PROJECT_DIR$/2_BST_Uzerinde_Dolasma/2_BST_Uzerinde_Dolasma.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tree.iml" filepath="$PROJECT_DIR$/Tree.iml" />
     </modules>
   </component>
